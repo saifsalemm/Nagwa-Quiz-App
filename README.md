@@ -5,3 +5,4 @@
 - Question Timer
 - Leader Board with Top 10 scores
 # install the dependencies and run "npm run start" in the terminal to spin the live server
+## Check comments inside the code for details on how each part of the project works
