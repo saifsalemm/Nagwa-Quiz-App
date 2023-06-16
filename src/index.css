@@ -1,0 +1,119 @@
+body {
+  margin: 0;
+  font-family: 'PlayFair';
+}
+
+.grow-ng:hover {
+  transform: scale(1.1);
+}
+
+.grow-ng {
+  transition: transform 0.4s ease;
+}
+
+.bar-ng {
+  height: 15px;
+  border-radius: 5px;
+}
+
+.user-rank {
+  text-align: center;
+}
+
+.answers label {
+  border-color: #155648;
+  color: #155648;
+}
+
+.answers label:hover {
+  border-color: #155648;
+  color: #155648;
+  background-color: white;
+}
+
+.answers input[type="radio"]:focus {
+ outline: none;
+}
+
+.answers input[type="radio"]:checked + label {
+  border-color: #155648;
+  color: #155648;
+  background-color: white;
+}
+
+.right-span {
+  color: #0077ff;
+}
+
+.wrong-span {
+  color: rgb(255, 55, 55);
+}
+
+.right input[type="radio"]:checked + label {
+  border-color: #0077ff;
+  color: white;
+  background-color: #0077ff;
+}
+
+.wrong input[type="radio"]:checked + label {
+  border-color: rgb(255, 55, 55);
+  color: white;
+  background-color: rgb(255, 55, 55);
+}
+
+.right, .wrong {
+  pointer-events: none;
+}
+
+.main-progress-bar {
+  background-color: #aaa;
+}
+
+.sub-progress-bar {
+  background-color: #155648;
+}
+
+.nagwa-center {
+  justify-content: center;
+  align-content: center;
+}
+
+.rounded-ng {
+  border-radius: 10px;
+}
+
+.text-ng {
+  color: #155648;
+}
+
+.bg-ng {
+  background-color: #155648 !important;
+}
+
+.bg-ng-2 {
+  background-color: #ff725e !important;
+}
+
+.btn-ng {
+  background-color: #155648 !important;
+}
+
+.btn-ng:hover {
+  background-color: #1f806b !important;
+}
+
+.border-ng {
+  border-color: #155648 !important;
+}
+
+.ltr {
+  text-align: left;
+}
+
+.rtl {
+  text-align: right;
+}
+
+body {
+  background-color: #fffaed;
+}
