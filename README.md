@@ -4,4 +4,4 @@
 - A Form to add new Words to the database (TestData.json)
 - Question timer
 - Leader Board with Top 10 scores
-## Check the code comments for details on how each part of the project works
+## Check the code comments in the "backend" & "frontend" branches for details on how each part of the project works
