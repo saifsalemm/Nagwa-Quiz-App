@@ -1,4 +1,4 @@
-# this node.js backend is built with javascript
+# This node.js backend is built with javascript
 ## Additional Features to the default ones listed in the project description:
 - Admin User Login and authentication
 - Adding new Words to the database (TestData.json)
